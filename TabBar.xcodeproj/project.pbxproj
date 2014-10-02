@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BA8D8D8619DE0B46008D1821 /* ListaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA8D8D8419DE0B46008D1821 /* ListaViewController.m */; };
+		BA8D8D8719DE0B46008D1821 /* ListaViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BA8D8D8519DE0B46008D1821 /* ListaViewController.xib */; };
+		BA8D8D8B19DE0B94008D1821 /* DetalhesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA8D8D8919DE0B94008D1821 /* DetalhesViewController.m */; };
+		BA8D8D8C19DE0B94008D1821 /* DetalhesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BA8D8D8A19DE0B94008D1821 /* DetalhesViewController.xib */; };
+		BA8D8D8E19DE0DDF008D1821 /* facebookIcon2.png in Resources */ = {isa = PBXBuildFile; fileRef = BA8D8D8D19DE0DDF008D1821 /* facebookIcon2.png */; };
+		BA8D8D9219DE0E79008D1821 /* SobreViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA8D8D9019DE0E79008D1821 /* SobreViewController.m */; };
+		BA8D8D9319DE0E79008D1821 /* SobreViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BA8D8D9119DE0E79008D1821 /* SobreViewController.xib */; };
+		BA8D8D9519DE0F8A008D1821 /* settings21.png in Resources */ = {isa = PBXBuildFile; fileRef = BA8D8D9419DE0F8A008D1821 /* settings21.png */; };
 		BAB8036419DDF9770070DA96 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BAB8036319DDF9770070DA96 /* main.m */; };
 		BAB8036719DDF9770070DA96 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BAB8036619DDF9770070DA96 /* AppDelegate.m */; };
 		BAB8036F19DDF9770070DA96 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAB8036E19DDF9770070DA96 /* Images.xcassets */; };
@@ -25,6 +33,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BA8D8D8319DE0B46008D1821 /* ListaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListaViewController.h; sourceTree = "<group>"; };
+		BA8D8D8419DE0B46008D1821 /* ListaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ListaViewController.m; sourceTree = "<group>"; };
+		BA8D8D8519DE0B46008D1821 /* ListaViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ListaViewController.xib; sourceTree = "<group>"; };
+		BA8D8D8819DE0B94008D1821 /* DetalhesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetalhesViewController.h; sourceTree = "<group>"; };
+		BA8D8D8919DE0B94008D1821 /* DetalhesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetalhesViewController.m; sourceTree = "<group>"; };
+		BA8D8D8A19DE0B94008D1821 /* DetalhesViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DetalhesViewController.xib; sourceTree = "<group>"; };
+		BA8D8D8D19DE0DDF008D1821 /* facebookIcon2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = facebookIcon2.png; sourceTree = "<group>"; };
+		BA8D8D8F19DE0E79008D1821 /* SobreViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SobreViewController.h; sourceTree = "<group>"; };
+		BA8D8D9019DE0E79008D1821 /* SobreViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SobreViewController.m; sourceTree = "<group>"; };
+		BA8D8D9119DE0E79008D1821 /* SobreViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SobreViewController.xib; sourceTree = "<group>"; };
+		BA8D8D9419DE0F8A008D1821 /* settings21.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = settings21.png; sourceTree = "<group>"; };
 		BAB8035E19DDF9770070DA96 /* TabBar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TabBar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAB8036219DDF9770070DA96 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BAB8036319DDF9770070DA96 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -78,8 +97,19 @@
 			children = (
 				BAB8036519DDF9770070DA96 /* AppDelegate.h */,
 				BAB8036619DDF9770070DA96 /* AppDelegate.m */,
+				BA8D8D8319DE0B46008D1821 /* ListaViewController.h */,
+				BA8D8D8419DE0B46008D1821 /* ListaViewController.m */,
+				BA8D8D8519DE0B46008D1821 /* ListaViewController.xib */,
+				BA8D8D8819DE0B94008D1821 /* DetalhesViewController.h */,
+				BA8D8D8919DE0B94008D1821 /* DetalhesViewController.m */,
+				BA8D8D8A19DE0B94008D1821 /* DetalhesViewController.xib */,
+				BA8D8D8F19DE0E79008D1821 /* SobreViewController.h */,
+				BA8D8D9019DE0E79008D1821 /* SobreViewController.m */,
+				BA8D8D9119DE0E79008D1821 /* SobreViewController.xib */,
 				BAB8036E19DDF9770070DA96 /* Images.xcassets */,
 				BAB8037019DDF9770070DA96 /* LaunchScreen.xib */,
+				BA8D8D8D19DE0DDF008D1821 /* facebookIcon2.png */,
+				BA8D8D9419DE0F8A008D1821 /* settings21.png */,
 				BAB8036119DDF9770070DA96 /* Supporting Files */,
 			);
 			path = TabBar;
@@ -191,8 +221,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA8D8D8C19DE0B94008D1821 /* DetalhesViewController.xib in Resources */,
 				BAB8037219DDF9770070DA96 /* LaunchScreen.xib in Resources */,
+				BA8D8D9319DE0E79008D1821 /* SobreViewController.xib in Resources */,
+				BA8D8D9519DE0F8A008D1821 /* settings21.png in Resources */,
 				BAB8036F19DDF9770070DA96 /* Images.xcassets in Resources */,
+				BA8D8D8E19DE0DDF008D1821 /* facebookIcon2.png in Resources */,
+				BA8D8D8719DE0B46008D1821 /* ListaViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -210,8 +245,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA8D8D8B19DE0B94008D1821 /* DetalhesViewController.m in Sources */,
 				BAB8036719DDF9770070DA96 /* AppDelegate.m in Sources */,
 				BAB8036419DDF9770070DA96 /* main.m in Sources */,
+				BA8D8D9219DE0E79008D1821 /* SobreViewController.m in Sources */,
+				BA8D8D8619DE0B46008D1821 /* ListaViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
